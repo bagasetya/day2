@@ -18,7 +18,10 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mobile Programming'),
+        title: Text(
+          'Mobile Programming',
+          textAlign: TextAlign.center,
+        ),
       ),
 
       // body: Center(
