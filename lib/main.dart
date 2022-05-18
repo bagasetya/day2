@@ -64,7 +64,7 @@ class MyHomePage extends StatelessWidget {
             width: 150,
             margin: EdgeInsets.all(10),
           )
-        ])
+        ]),
         new Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
           Container(
             decoration: BoxDecoration(
