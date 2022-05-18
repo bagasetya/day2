@@ -45,7 +45,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(15),
           ),
           Container(
             decoration: BoxDecoration(
@@ -62,7 +61,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(10),
           )
         ]),
         new Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
@@ -81,7 +79,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(15),
           ),
           Container(
             decoration: BoxDecoration(
@@ -98,7 +95,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(10),
           )
         ]),
         new Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
@@ -117,7 +113,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(15),
           ),
           Container(
             decoration: BoxDecoration(
@@ -134,7 +129,6 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(10),
           )
         ])
       ]),
