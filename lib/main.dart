@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
       //     fontFamily: 'DancingScript'
       //   ))
       // )
-      body: Row(children: [
+      body: Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
         Container(
           decoration: BoxDecoration(
             color: const Color(0xff7c94b6),
