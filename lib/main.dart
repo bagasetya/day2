@@ -44,7 +44,7 @@ class MyHomePage extends StatelessWidget {
             ),
             height: 150,
             width: 150,
-            margin: EdgeInsets.all(10),
+            margin: EdgeInsets.all(20),
           ),
           Container(
             decoration: BoxDecoration(
